@@ -3,7 +3,7 @@ import React from 'react'
 const Products = () => {
   return (
     
-    <section class="mx-autobg-dark pt-8 w-full">
+    <section class=" pt-8 w-full">
     <div>
         <div role="contentinfo" class="flex items-center flex-col px-4">
             <p tabindex="0" class="focus:outline-none uppercase text-sm text-center text-gray-600 dark:text-gray-200 leading-4">Diseño Web</p>
@@ -61,8 +61,6 @@ const Products = () => {
         </div>
     </div>
 </section>
-
-
   )
 }
 

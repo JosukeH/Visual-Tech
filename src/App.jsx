@@ -17,7 +17,7 @@ function App() {
       <HeroSection />
       <Feature />
       <Carousel />
-      <Products />
+      {/* <Products /> */}
       <Team />
       <Contacto/>
       <Footer />
