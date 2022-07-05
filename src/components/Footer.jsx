@@ -12,10 +12,10 @@ const Footer = () => {
                         <div className="w-full lg:w-1/2 px-6">
                             <ul>
                                 <li>
-                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Components</a>
+                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Visaul Tech</a>
                                 </li>
                                 <li className="mt-6">
-                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Templates</a>
+                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Portafolio</a>
                                 </li>
                                 <li className="mt-6">
                                         <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Pricing</a>
@@ -23,31 +23,27 @@ const Footer = () => {
                                 <li className="mt-6">
                                         <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">FAQ</a>
                                 </li>
-                                <li className="mt-6">
-                                    <a href="javascript:void(0)" className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">
-                                        Documentation
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                         <div className="w-full lg:w-1/2 px-6">
                             <ul>
                                 <li>
-                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Free components</a>
+                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Privacidad</a>
                                 </li>
 
                                 <li className="mt-6">
-                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Blog</a>
+                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Cookies</a>
                                 </li>
                                 <li className="mt-6">
-                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Changelog</a>
+                                        <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"></a>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div className="w-full lg:w-1/2 flex">
                         <div className="w-full lg:w-1/2 px-6">
-                            <ul>
+                            {/* <ul>
                                 <li>
                                     <a href="javascript:void(0)" className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">
                                         Privacy policy
@@ -56,7 +52,7 @@ const Footer = () => {
                                 <li className="mt-6">
                                         <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">Terms of service</a>
                                 </li>
-                            </ul>
+                            </ul> */}
                         </div>
                         <div className="w-full lg:w-1/2 px-6 flex flex-col justify-between">
                             <div className="flex items-center mb-6">

@@ -9,9 +9,11 @@ module.exports = {
       colors: {
         vtwhite: '#f2f2f2',
         vtblack: '#000',
-        vtblackligth: '#000',
+        vtblackligth: '#0d1117',
+        black: '#0d1117',
         vtgray: '#999',
         vtgrayligth: '#b3b3b3'
+
       }
     },
   },

@@ -4,8 +4,8 @@ function Team() {
         <div>
             <div className="container flex justify-center mx-auto pt-16 bg-white">
                 <div>
-                    <p className="text-gray-500 text-lg text-center font-normal pb-3">BUILDING TEAM</p>
-                    <h1 className="xl:text-4xl text-3xl text-center text-gray-800 font-extrabold pb-6 sm:w-4/6 w-5/6 mx-auto">The Talented People Behind the Scenes of the Organization</h1>
+                    <p className="text-gray-500 text-lg text-center font-normal pb-3">NUESTRO EQUIPO</p>
+                    <h1 className="xl:text-4xl text-3xl text-center text-gray-800 font-extrabold pb-6 sm:w-4/6 w-5/6 mx-auto">El talento detras del éxito de los proyectos</h1>
                 </div>
             </div>
             <div className="w-full bg-gray-100 px-10 pt-10">
@@ -15,11 +15,11 @@ function Team() {
                             <div className="rounded overflow-hidden shadow-md bg-white">
                                 <div className="absolute -mt-20 w-full flex justify-center">
                                     <div className="h-32 w-32">
-                                        <img src="https://cdn.tuk.dev/assets/photo-1564061170517-d3907caa96ea.jfif" alt className="rounded-full object-cover h-full w-full shadow-md" />
+                                        <img src="https://cdn.tuk.dev/assets/photo-1566753323558-f4e0952af115.jfif" alt className="rounded-full object-cover h-full w-full shadow-md" />
                                     </div>
                                 </div>
                                 <div className="px-6 mt-16">
-                                    <div className="font-bold text-3xl text-center pb-1">Andres Berlin</div>
+                                    <div className="font-bold text-3xl text-center pb-1">Rodrigo Duran</div>
                                     <p className="text-gray-800 text-sm text-center">Chief Executive Officer</p>
                                     <p className="text-center text-gray-600 text-base pt-3 font-normal">The CEO's role in raising a company's corporate IQ is to establish an atmosphere that promotes knowledge sharing and collaboration.</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -54,12 +54,12 @@ function Team() {
                             <div className="rounded overflow-hidden shadow-md bg-white">
                                 <div className="absolute -mt-20 w-full flex justify-center">
                                     <div className="h-32 w-32">
-                                        <img src="https://cdn.tuk.dev/assets/photo-1530577197743-7adf14294584.jfif" alt className="rounded-full object-cover h-full w-full shadow-md" />
+                                        <img src="https://cdn.tuk.dev/assets/photo-1566753323558-f4e0952af115.jfif" alt className="rounded-full object-cover h-full w-full shadow-md" />
                                     </div>
                                 </div>
                                 <div className="px-6 mt-16">
-                                    <div className="font-bold text-3xl text-center pb-1">Silene Tokyo</div>
-                                    <p className="text-gray-800 text-sm text-center">Product Design Head</p>
+                                    <div className="font-bold text-3xl text-center pb-1">Carlos Alvarado</div>
+                                    <p className="text-gray-800 text-sm text-center">Full Stack Developer</p>
                                     <p className="text-center text-gray-600 text-base pt-3 font-normal">The emphasis on innovation and technology in our companies has resulted in a few of them establishing global benchmarks in product design and development.</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
@@ -97,8 +97,8 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="px-6 mt-16">
-                                    <div className="font-bold text-3xl text-center pb-1">Johnson Stone</div>
-                                    <p className="text-gray-800 text-sm text-center">Manager Development</p>
+                                    <div className="font-bold text-3xl text-center pb-1">Gustavo Eduardo</div>
+                                    <p className="text-gray-800 text-sm text-center">Administrador de desarrollo</p>
                                     <p className="text-center text-gray-600 text-base pt-3 font-normal">Our services encompass the assessment and repair of property damage caused by water, fire, smoke, or mold. We can also be a part of the restoration.</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
@@ -132,9 +132,9 @@ function Team() {
                         </div>
                  
                          
-                                </div>
-                            </div>
-                            </div>
+                        </div>
+                        </div>
+                        </div>
      
     );
 }
