@@ -7,7 +7,7 @@ const Products = () => {
     <div>
         <div role="contentinfo" class="flex items-center flex-col px-4">
             <p tabindex="0" class="focus:outline-none uppercase text-sm text-center text-gray-600 dark:text-gray-200 leading-4">Diseño Web</p>
-            <hh1 tabindex="0" class="focus:outline-none text-4xl lg:text-4xl font-extrabold text-center leading-10 text-gray-800 dark:text-white lg:w-5/12 md:w-9/12 pt-4">Create Beautiful Landing Pages & Web Apps in a Jiffy</hh1>
+            <h1 tabindex="0" class="focus:outline-none text-4xl lg:text-4xl font-extrabold text-center leading-10 text-gray-800 dark:text-white lg:w-5/12 md:w-9/12 pt-4">Crea interfaces Web a tu medida.</h1>
         </div>
         <div tabindex="0" aria-label="group of cards" class="focus:outline-none mt-20 flex flex-wrap justify-center gap-10 px-4">
             <div tabindex="0" aria-label="card 1" class="focus:outline-none flex sm:w-full md:w-5/12 pb-20">
@@ -18,8 +18,9 @@ const Products = () => {
                     </div>
                 </div>
                 <div class="w-10/12">
-                    <h2 tabindex="0" class="focus:outline-none text-lg font-bold leading-tight text-gray-800 dark:text-white">Ready to use components</h2>
-                    <p tabindex="0" class="focus:outline-none text-base text-gray-600 dark:text-gray-200 leading-normal pt-2">It provides a very simple start, no need to write a lot of code, you just import it and start the primitive components and create the ones you need.</p>
+                    <h2 tabindex="0" class="focus:outline-none text-lg font-bold leading-tight text-gray-800 dark:text-white">Listo para usar conectores</h2>
+                    <p tabindex="0" class="focus:outline-none text-base text-gray-600 dark:text-gray-200 leading-normal pt-2">
+Proporciona un inicio muy simple, no es necesario escribir mucho código, simplemente lo importa e inicia los componentes primitivos y crea los que necesita..</p>
                 </div>
             </div>
             <div tabindex="0" aria-label="card 2" class="focus:outline-none flex sm:w-full md:w-5/12 pb-20">
@@ -30,8 +31,8 @@ const Products = () => {
                     </div>
                 </div>
                 <div class="w-10/12">
-                    <h2 tabindex="0" class="focus:outline-none text-lg font-semibold leading-tight text-gray-800 dark:text-white">Hight Quality UI you can reply on</h2>
-                    <p tabindex="0" class="focus:outline-none text-base text-gray-600 dark:text-gray-200 leading-normal pt-2">Modify the visual appearance of your site – including colors, fonts, margins and other style-related properties – with a sophisticated style.</p>
+                    <h2 tabindex="0" class="focus:outline-none text-lg font-semibold leading-tight text-gray-800 dark:text-white">Gran calidad de interfaces</h2>
+                    <p tabindex="0" class="focus:outline-none text-base text-gray-600 dark:text-gray-200 leading-normal pt-2">Modifica la apariencia visual de tu sitio, incluyendo colores, fuentes, margenss y otros tipos de propiedades de estilos.</p>
                 </div>
             </div>
             <div tabindex="0" aria-label="card 3" class="focus:outline-none flex sm:w-full md:w-5/12 pb-20">
@@ -42,8 +43,9 @@ const Products = () => {
                     </div>
                 </div>
                 <div class="w-10/12">
-                    <h2 tabindex="0" class="focus:outline-none text-lg font-semibold leading-tight text-gray-800 dark:text-white">Coded by Developers for Developers</h2>
-                    <p tabindex="0" class="focus:outline-none text-base text-gray-600 dark:text-gray-200 leading-normal pt-2">Instead of just giving you the tools to create your own site, they offer you a list of themes you can choose from. Thus a handy product.</p>
+                    <h2 tabindex="0" class="focus:outline-none text-lg font-semibold leading-tight text-gray-800 dark:text-white">Desarrollado por programadores expertos.</h2>
+                    <p tabindex="0" class="focus:outline-none text-base text-gray-600 dark:text-gray-200 leading-normal pt-2">
+En lugar de solo brindarle las herramientas para crear su propio sitio, le ofrecen una lista de temas entre los que puede elegir. Por lo tanto, un producto práctico. </p>
                 </div>
             </div>
             <div tabindex="0" aria-label="card 4" class="focus:outline-none flex sm:w-full md:w-5/12 pb-20">
@@ -54,8 +56,9 @@ const Products = () => {
                     </div>
                 </div>
                 <div class="w-10/12">
-                    <h2 tabindex="0" class="focus:outline-none text-lg font-semibold leading-tight text-gray-800 dark:text-white">The Last UI kit you’ll ever need</h2>
-                    <p tabindex="0" class="focus:outline-none text-base text-gray-600 dark:text-gray-200 leading-normal pt-2">We have chosen the bright color palettes that arouse the only positive emotions. The kit that simply assures to be loved by everyone.</p>
+                    <h2 tabindex="0" class="focus:outline-none text-lg font-semibold leading-tight text-gray-800 dark:text-white">El último kit de interfaz de usuario que necesitarás</h2>
+                    <p tabindex="0" class="focus:outline-none text-base text-gray-600 dark:text-gray-200 leading-normal pt-2">
+Hemos elegido las paletas de colores vivos que despiertan las únicas emociones positivas. El kit que simplemente asegura ser amado por todos.</p>
                 </div>
             </div>
         </div>

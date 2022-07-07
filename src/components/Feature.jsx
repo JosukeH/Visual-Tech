@@ -14,10 +14,10 @@ const Feature = () => {
                <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/feature_7-svg1.svg" alt="arrow-1" />
               </div> 
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>Robust workflow</h2>
+                <h2>Buen flujo de trabajo</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>Workflows can help streamline and automate repeatable business tasks.</p>
+                <p>Nuestro flujo de trabajo nos apoya a realizar los proyectos en tiempo y forma.</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -25,10 +25,10 @@ const Feature = () => {
                <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/feature_7-svg2.svg" alt="3 bars" />
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>Flexibility</h2>
+                <h2>Flexibilidad</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>A flexible software architecture is able to changes in usability requirements</p>
+                <p>Nuestra forma de trabajar es fexible lo que con lleva que sea facil de cambiar.</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -36,10 +36,10 @@ const Feature = () => {
                <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/feature_7-svg3.svg" alt="bars" />
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>User friendly</h2>
+                <h2>Amigable al usuario</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>Good usability can improve a new software chances of successful adoption.</p>
+                <p>Nuestros proyectos son amigables con el usuario final, para alcanzar la mayor cantidad de personas.</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -50,7 +50,7 @@ const Feature = () => {
                 <h2>Multiple layouts</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>Smaller components are easier to maintain. Program can be divided</p>
+                <p>Realizamos una gran cantidad de interfaces dependiendo del proyecto.</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -58,10 +58,10 @@ const Feature = () => {
                 <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/feature_7-svg5.svg" alt="bars" />
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>Better components</h2>
+                <h2>Mejores componentes</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>Component-based design makes front-end web development faster.</p>
+                <p>Realizamos nuestros proyectos, basados en componentes, lo que permite mejor performance.</p>
               </div>
             </div>
             <div class="cursor-pointer hover:shadow py-6 xl:px-4 rounded xl:w-96 w-60 flex justify-center items-center flex-col">
@@ -69,10 +69,10 @@ const Feature = () => {
               <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/feature_7-svg6.svg" alt="" />
               </div>
               <div class="text-gray-800 dark:text-white text-2xl font-semibold text-center">
-                <h2>Well organised</h2>
+                <h2>Bien organizado</h2>
               </div>
               <div class="text-gray-600 dark:text-gray-300 mt-2 text-lg text-center">
-                <p>No more running around looking for things.When you write things and plan.</p>
+                <p>No más confusión en tu proyecto, nuestros sitios son claros y bien organizados..</p>
               </div>
             </div>
           </div>

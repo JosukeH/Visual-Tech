@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contacto = () => {
   return (
-    <div className="container mx-auto bg-black">
+    <div className="container mx-auto bg-black" id="contacto">
     <div className="lg:flex">
         <div className="xl:w-2/5 lg:w-2/5 bg-indigo-700 py-16 xl:rounded-bl rounded-tl rounded-tr xl:rounded-tr-none">
             <div className="xl:w-5/6 xl:px-0 px-8 mx-auto">
