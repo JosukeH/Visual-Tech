@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
 const Footer = () => {
   return (
@@ -23,7 +23,7 @@ const Footer = () => {
                                 <li className="mt-6">
                                         <a className="text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">FAQ</a>
                                 </li>
-                                
+
                             </ul>
                         </div>
                         <div className="w-full lg:w-1/2 px-6">
@@ -71,7 +71,7 @@ const Footer = () => {
                                     </div>
                                 </a>
                             </div>
-                          
+
                             </div>
                         </div>
                     </div>

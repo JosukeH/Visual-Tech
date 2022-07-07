@@ -1,3 +1,4 @@
+import React from 'react'
 
 const HeroSection = () => {
   return (
@@ -6,11 +7,11 @@ const HeroSection = () => {
   <div className="max-w-7xl mx-auto">
     <div className="relative z-10 pb-8 bg-vtblackligth sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
       <svg className="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-white transform translate-x-1/2" fill="currentColor" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
-        <polygon  className="fill-vtblackligth" points="50,0 100,0 50,100 0,100" />
+        <polygon className="fill-vtblackligth" points="50,0 100,0 50,100 0,100" />
       </svg>
 
       <div>
-       
+
         <div className="absolute z-10 top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden">
           <div className="rounded-lg shadow-md bg-vtblackligth ring-1 ring-black ring-opacity-5 overflow-hidden">
             <div className="px-5 pt-4 flex items-center justify-between">
@@ -20,8 +21,8 @@ const HeroSection = () => {
               <div className="-mr-2">
                 <button type="button" className="bg-vtblackligth rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                   <span className="sr-only">Close main menu</span>
-                  <svg className="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+                  <svg className="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" aria-hidden="true">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
                   </svg>
                 </button>
               </div>
@@ -65,7 +66,6 @@ const HeroSection = () => {
 </div>
 </div>
   )
-
 }
 
 export default HeroSection
